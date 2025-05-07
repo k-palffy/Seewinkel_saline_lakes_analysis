@@ -1,2 +1,2 @@
 # Seewinkel_saline_lakes_analysis
-R script for an analysis of eDNA data collected from a group of saline lakes
+The repository contains the R script of an analysis of eDNA data collected from a group of saline lakes situated in the Neusiedlersee-Seewinkel National Park, Austria. The data analysis focuses on phytoplankton composition using a trait-based approach, elucidating the diversity-resource use relationship as a function of environmental stressors. The analysis is part of a scientific manuscript under revision.
